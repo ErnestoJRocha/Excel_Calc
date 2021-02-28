@@ -1,0 +1,104 @@
+Recebido:
+    
+	Id = irsCalculator.Id;
+	PickArea_1 = irsCalculator.PickArea;
+	PickLevel_2 = = irsCalculator.PickLevel;
+	MaritalStatus_3 = irsCalculator.MaritalStatusId;
+    Dependents_7 = irsCalculator.DependentsId;
+    CarType_8 = irsCalculator.CarType;
+    CarTotalValue_9 = irsCalculator.CarTotalValue;
+    NumMonths_16 = irsCalculator.NumMonths;
+    NumDaysMonth_17 = irsCalculator.NumDaysMonth;
+    TargetMargin_18 = irsCalculator.TargetMargin;
+    JustifiedExpenses_34 = irsCalculator.JustifiedExpenses;
+    CarExpenses_44 = irsCalculator.CarExpenses;
+    CarFuel_49 = irsCalculator.CarFuel;
+    VariableValue_54 = irsCalculator.VariableValue;
+    Bonus_61 = irsCalculator.Bonus;
+    ProposedDailyRate_81 = irsCalculator.ProposedDailyRate;
+
+Calculado:
+        OK-NewLevel_5 
+        OK-OldLevel_6 
+        OK-TTA_10 
+        OK-BaseSalaryGrossMonth_19 
+        OK-IHTGrossMonth_24 
+        OK-IRSTax_11  
+        OK-ExtraTax_12 
+        OK-BaseSalaryNetMonth_20 
+        OK-IHTNetMonth_25 
+        OK-BaseSalaryGrossYear_21 
+        OK-BaseSalaryNetYear_22 
+        OK-BaseSalaryTotal_23 
+        OK-IHTGrossYear_26 
+        OK-IHTNetYear_27 
+        OK-IHTTotal_28 
+        OK-SubRefGrossMonth_29 
+        OK-SubRefNetMonth_30 
+        OK-SubRefGrossYear_31 
+        OK-SubRefNetYear_32 
+        OK-SubRefTotal_33 
+        //  ExpensesGrossMonth_34 
+        OK-ExpensesNetMonth_35 
+        OK-ExpensesGrossYear_36 
+        OK-ExpensesNetYear_37 
+        OK-ExpensesTotal_38 
+        OK-CarGrossMonth_39 
+        OK-CarNetMonth_40 
+        OK-CarGrossYear_41 
+        OK-CarNetYear_42 
+        OK-CarTotal_43 
+        OK-EmployeeIRS_13 
+        OK-EmployeeSS_14 
+        OK-EmployeeExtraTax_15 
+    
+
+
+
+//  CarExpensesGrossMonth_44 
+    CarExpensesNetMonth_45 
+    CarExpensesGrossYear_46 
+    CarExpensesNetYear_47 
+    CarExpensesTotal_48 
+
+//  CarFuelGrossMonth_49 
+    CarFuelNetMonth_50 
+    CarFuelGrossYear_51 
+    CarFuelNetYear_52 
+    CarFuelTotal_53 
+
+//  VariableValueGrossMonth_54 
+    VariableValueNetMonth_55 
+    VariableValueGrossYear_56 
+    VariableValueNetYear_57 
+    VariableValueTotal_58 
+
+    BonusGrossMonth_59 
+    BonusNetMonth_60 
+//  BonusGrossYear_61 
+    BonusNetYear_62 
+    BonusTotal_63 
+
+    TotalGrossMonth_64 
+    TotalNetMonth_65 
+    TotalGrossYear_66 
+    TotalNetYear_67 
+    TotalTotal_68 
+
+    TotalNetAfterExtraTaxwithBonusNetMonth_69 
+    TotalNetAfterExtraTaxwithBonusNetYear_70 
+    TotalNetAfterExtraTaxwithoutBonusNetMonth_71 
+    TotalNetAfterExtraTaxwithoutBonusNetYear_72 
+
+    CostMonthWithBonus_73 
+    CostMonthWithoutBonus_74 
+    CostDayWithBonus_75 
+    CostDayWithoutBonus_76 
+    MonthTargetMargWithBonus_77 
+    MonthTargetMargWithoutBonus_78 
+    DayTargetMargWithoutBonus_79 
+    DayTargetMargWithoutBonus_80 
+    ProposedDailyRate_81 
+    MarginWithBonus_82 
+    ProposedHourRate_83 
+    MarginWithoutBonus_84 

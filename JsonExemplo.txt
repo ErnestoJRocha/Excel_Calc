@@ -1,0 +1,19 @@
+{
+	"id":2,
+	"pickArea":1,
+	"pickLevel":1,
+	"carType":1,
+	"carTotalValue":24000,
+	"ttaId":null,
+	"maritalStatusId":1,
+	"dependentsId":4,
+	"numMonths":null,
+	"numDaysMonth":null,
+	"targetMargin":null,
+	"justifiedExpenses":null,
+	"carExpenses":null,
+	"carFuel":null,
+	"variableValue":null,
+	"bonus":null,
+	"proposedDailyRate":null
+}
